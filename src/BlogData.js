@@ -9,7 +9,7 @@ const blogContent = [
     },
     {
         companyName: 'Why Computer Science Needs Creatives',
-        duration: "February 28, 2022",
+        duration: "March 15, 2022",
         workDes: [
             'When you hear the words “computer science”, what do you think of? 1’s and 0’s? Wires and code? An Einstein-looking man sitting in a dark back corner of the computer lab typing the day away?',
         ],
