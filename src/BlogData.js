@@ -11,9 +11,9 @@ const blogContent = [
         companyName: 'Why Computer Science Needs Creatives',
         duration: "February 28, 2022",
         workDes: [
-            'No content yet',
+            'When you hear the words “computer science”, what do you think of? 1’s and 0’s? Wires and code? An Einstein-looking man sitting in a dark back corner of the computer lab typing the day away?',
         ],
-        link: 'https://google.com/',
+        link: 'https://rmwtaylor22.github.io/github-pages-with-jekyll/2022/03/14/why-computer-science-needs-creatives.html',
     },
     
 ];
