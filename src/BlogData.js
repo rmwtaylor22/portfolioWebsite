@@ -15,6 +15,14 @@ const blogContent = [
         ],
         link: 'https://rmwtaylor22.github.io/github-pages-with-jekyll/2022/03/14/why-computer-science-needs-creatives.html',
     },
+    {
+        companyName: 'Landing a Computer Science Internship',
+        duration: "April 10, 2022",
+        workDes: [
+            'Unfortunately, landing a good internship can be a really tough thing when you’ve had no prior experience! It can feel hopeless...',
+        ],
+        link: 'https://rmwtaylor22.github.io/github-pages-with-jekyll/2022/04/10/landing-an-internship.html',
+    },
     
 ];
 
