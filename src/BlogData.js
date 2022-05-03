@@ -24,7 +24,7 @@ const blogContent = [
         link: 'https://rmwtaylor22.github.io/github-pages-with-jekyll/2022/04/10/landing-an-internship.html',
     },
     {
-        companyName: 'Outside of Code',
+        companyName: 'How to make people dislike you',
         duration: "May 3, 2022",
         workDes: [
             'A flipped version of "how to win friends and influence people".',
