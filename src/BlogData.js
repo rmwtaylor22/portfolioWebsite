@@ -27,9 +27,9 @@ const blogContent = [
         companyName: 'Outside of Code',
         duration: "May 3, 2022",
         workDes: [
-            'Performing well in the classroom is only one part of college. There needs to be much more to life than good grades and a good transcript.',
+            'A flipped version of "how to win friends and influence people".',
         ],
-        link: 'https://rmwtaylor22.github.io/github-pages-with-jekyll/2022/04/10/landing-an-internship.html',
+        link: 'https://rmwtaylor22.github.io/github-pages-with-jekyll/2022/05/03/ways-to-be-disliked.html',
     },
     
 ];
