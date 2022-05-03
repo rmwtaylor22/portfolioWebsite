@@ -23,6 +23,14 @@ const blogContent = [
         ],
         link: 'https://rmwtaylor22.github.io/github-pages-with-jekyll/2022/04/10/landing-an-internship.html',
     },
+    {
+        companyName: 'Outside of Code',
+        duration: "May 3, 2022",
+        workDes: [
+            'Performing well in the classroom is only one part of college. There needs to be much more to life than good grades and a good transcript.',
+        ],
+        link: 'https://rmwtaylor22.github.io/github-pages-with-jekyll/2022/04/10/landing-an-internship.html',
+    },
     
 ];
 
